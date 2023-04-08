@@ -1,9 +1,15 @@
 ## Struktur für Einsendeaufgaben (Dateien)
-*IhrName_Matrikelnummer_Kursnummer_Nummer der Einsendeaufgabe*
+*\<Vorname><Nachname\>\_\<Matrikelnummer\>\_\<Kursnummer\>\_EA\<Nummer_der _Einsendeaufgabe\>*
 also beispielsweise:
 
 ```ad-note
-HansMustermann_123456_1873_EA
+HansMustermann_123456_1873_EA1
+```
+
+bzw. hier zum Kopieren (lieber Zukunfts-Ertu):
+
+```ad-note
+ErtugrulSener_3890139_1877_EA1
 ```
 
 ## Name des Lehregebiets
